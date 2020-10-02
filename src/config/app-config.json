@@ -1,7 +1,7 @@
 {
     "region": "us-west-2",
     "userPool": "us-west-2_0agKCQkZU",
-    "userPoolBaseUri": "https://epf.auth.us-west-2.amazoncognito.com",
+    "userPoolBaseUri": "https://my-react-app.auth.us-west-2.amazoncognito.com",
     "clientId": "16btqa7pmfsdek5j466a92ie39",
     "callbackUri": "http://localhost:3000/callback",
     "signoutUri": "http://localhost:3000/",
@@ -9,7 +9,7 @@
         "openid",
         "email",
         "profile",
-        "https://epf.auth.us-west-2.amazoncognito.com/hello-world.all"
+        "https://my-react-app.auth.us-west-2.amazoncognito.com/hello-world.all"
     ],
     "apiUri": "http://localhost:3010"
 }

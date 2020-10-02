@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import logo from './logo.svg'
+import logo from './logo.png'
 import './Home.css'
 import { connect } from 'react-redux'
 import cognitoUtils from '../lib/cognitoUtils'
