@@ -1,0 +1,15 @@
+{
+    "region": "us-west-2",
+    "userPool": "us-west-2_AT0k3PFt4",
+    "userPoolBaseUri": "https://epf.auth.us-west-2.amazoncognito.com",
+    "clientId": "3ru0vql7bb836runm2nk5c1hjn",
+    "callbackUri": "http://localhost:3000/callback",
+    "signoutUri": "http://localhost:3000/",
+    "tokenScopes": [
+        "openid",
+        "email",
+        "profile",
+        "https://epf.auth.us-west-2.amazoncognito.com/hello-world.all"
+    ],
+    "apiUri": "http://localhost:3010"
+}
