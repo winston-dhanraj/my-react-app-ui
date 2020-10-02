@@ -11,5 +11,5 @@
         "profile",
         "https://my-react-app.auth.us-west-2.amazoncognito.com/hello-world.all"
     ],
-    "apiUri": "http://localhost:3010"
+    "apiUri": "https://1tyjapxn9f.execute-api.us-west-2.amazonaws.com/dev"
 }
