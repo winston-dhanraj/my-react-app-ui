@@ -3,8 +3,8 @@
     "userPool": "us-west-2_0agKCQkZU",
     "userPoolBaseUri": "https://my-react-app.auth.us-west-2.amazoncognito.com",
     "clientId": "16btqa7pmfsdek5j466a92ie39",
-    "callbackUri": "https://main.d3pg6q41x7z97x.amplifyapp.com/callback",
-    "signoutUri": "https://main.d3pg6q41x7z97x.amplifyapp.com/",
+    "callbackUri": "https://main.d1q3h6451f0ave.amplifyapp.com/callback",
+    "signoutUri": "https://main.d1q3h6451f0ave.amplifyapp.com/",
     "tokenScopes": [
         "openid",
         "email",
