@@ -11,5 +11,5 @@
         "profile",
         "https://auth-my-react-app.calmworker.net/hello-world.all"
     ],
-    "apiUri": "https://1tyjapxn9f.execute-api.us-west-2.amazonaws.com/dev"
+    "apiUri": "https://api-my-react-app.calmworker.net/"
 }
