@@ -1,15 +1,15 @@
 {
     "region": "us-west-2",
     "userPool": "us-west-2_0agKCQkZU",
-    "userPoolBaseUri": "https://my-react-app.auth.us-west-2.amazoncognito.com",
+    "userPoolBaseUri": "https://auth-my-react-app.calmworker.net",
     "clientId": "16btqa7pmfsdek5j466a92ie39",
     "callbackUri": "https://my-react-app.calmworker.net/callback",
-    "signoutUri": "https://my-react-app.calmworker.net//",
+    "signoutUri": "https://my-react-app.calmworker.net/",
     "tokenScopes": [
         "openid",
         "email",
         "profile",
-        "https://my-react-app.auth.us-west-2.amazoncognito.com/hello-world.all"
+        "https://auth-my-react-app.calmworker.net/hello-world.all"
     ],
     "apiUri": "https://1tyjapxn9f.execute-api.us-west-2.amazonaws.com/dev"
 }
