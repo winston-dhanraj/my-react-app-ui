@@ -9,7 +9,7 @@
         "openid",
         "email",
         "profile",
-        "https://auth-my-react-app.calmworker.net/hello-world.all"
+        "https://api-my-react-app.calmworker.net/hello-world.all"
     ],
     "apiUri": "https://api-my-react-app.calmworker.net"
 }
